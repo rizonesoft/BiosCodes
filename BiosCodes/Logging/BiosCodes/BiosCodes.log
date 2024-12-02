@@ -1,0 +1,814 @@
+=========================================================================================
+ RIZONESOFT LOGGING VERSION 2.0
+=========================================================================================
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 09:15:48 ] DATE:                        11/09/2024 09:15:48
+[ 11/09/2024 09:15:48 ] PROGRAM:                     Beep Codes Viewer 11.1.1.1961
+[ 11/09/2024 09:15:48 ] PROGRAM PATH:                [C:\Users\DerickPayne\Desktop\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 09:15:48 ] COMPILED:                    YES
+[ 11/09/2024 09:15:48 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 09:15:48 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 09:15:48 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 09:15:48 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 09:15:48 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 09:15:49 ] This is a message.
+[ 11/09/2024 09:15:50 ] Error: This is an Error message!
+[ 11/09/2024 09:15:51 ] Warning: This is a Warning!
+[ 11/09/2024 09:15:52 ] Success: This message is successful.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 09:16:48 ] DATE:                        11/09/2024 09:16:48
+[ 11/09/2024 09:16:48 ] PROGRAM:                     Beep Codes Viewer 11.1.1.1961
+[ 11/09/2024 09:16:48 ] PROGRAM PATH:                [C:\Users\DerickPayne\Desktop\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 09:16:48 ] COMPILED:                    YES
+[ 11/09/2024 09:16:48 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 09:16:48 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 09:16:48 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 09:16:48 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 09:16:48 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 09:16:49 ] This is a message.
+[ 11/09/2024 09:16:50 ] Error: This is an Error message!
+[ 11/09/2024 09:16:51 ] Warning: This is a Warning!
+[ 11/09/2024 09:16:52 ] Success: This message is successful.
+[ 11/09/2024 09:16:54 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 09:17:01 ] DATE:                        11/09/2024 09:17:01
+[ 11/09/2024 09:17:01 ] PROGRAM:                     Beep Codes Viewer 11.1.1.1961
+[ 11/09/2024 09:17:01 ] PROGRAM PATH:                [C:\Users\DerickPayne\Desktop\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 09:17:01 ] COMPILED:                    YES
+[ 11/09/2024 09:17:01 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 09:17:01 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 09:17:01 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 09:17:01 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 09:17:01 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 09:17:02 ] This is a message.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 20:33:39 ] DATE:                        11/09/2024 20:33:39
+[ 11/09/2024 20:33:39 ] PROGRAM:                     Beep Codes Viewer 11.1.1.1962
+[ 11/09/2024 20:33:39 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 20:33:39 ] COMPILED:                    YES
+[ 11/09/2024 20:33:39 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 20:33:39 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 20:33:39 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 20:33:39 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 20:33:39 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 20:33:40 ] This is a message.
+[ 11/09/2024 20:33:41 ] Error: This is an Error message!
+[ 11/09/2024 20:33:42 ] Warning: This is a Warning!
+[ 11/09/2024 20:33:44 ] Success: This message is successful.
+[ 11/09/2024 20:33:45 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 21:02:14 ] DATE:                        11/09/2024 21:02:14
+[ 11/09/2024 21:02:14 ] PROGRAM:                     Beep Codes Viewer 11.2.1.1965
+[ 11/09/2024 21:02:14 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 21:02:14 ] COMPILED:                    YES
+[ 11/09/2024 21:02:14 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 21:02:14 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 21:02:14 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 21:02:14 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 21:02:14 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 21:02:15 ] This is a message.
+[ 11/09/2024 21:02:16 ] Error: This is an Error message!
+[ 11/09/2024 21:02:17 ] Warning: This is a Warning!
+[ 11/09/2024 21:02:18 ] Success: This message is successful.
+[ 11/09/2024 21:02:19 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 21:02:47 ] DATE:                        11/09/2024 21:02:47
+[ 11/09/2024 21:02:47 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1966
+[ 11/09/2024 21:02:47 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 21:02:47 ] COMPILED:                    YES
+[ 11/09/2024 21:02:47 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 21:02:47 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 21:02:47 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 21:02:47 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 21:02:47 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 21:02:48 ] This is a message.
+[ 11/09/2024 21:02:49 ] Error: This is an Error message!
+[ 11/09/2024 21:02:50 ] Warning: This is a Warning!
+[ 11/09/2024 21:02:51 ] Success: This message is successful.
+[ 11/09/2024 21:02:52 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/09/2024 21:03:26 ] DATE:                        11/09/2024 21:03:26
+[ 11/09/2024 21:03:26 ] PROGRAM:                     Beep Codes Viewer 11.3.3.1967
+[ 11/09/2024 21:03:26 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/09/2024 21:03:26 ] COMPILED:                    YES
+[ 11/09/2024 21:03:26 ] WINDOWS VERSION:             WIN_10 
+[ 11/09/2024 21:03:26 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/09/2024 21:03:26 ] MEMORY (RAM):                32601.73 MB
+[ 11/09/2024 21:03:26 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/09/2024 21:03:26 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/09/2024 21:03:27 ] This is a message.
+[ 11/09/2024 21:03:28 ] Error: This is an Error message!
+[ 11/09/2024 21:03:29 ] Warning: This is a Warning!
+[ 11/09/2024 21:03:30 ] Success: This message is successful.
+[ 11/09/2024 21:03:31 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:04:04 ] DATE:                        11/10/2024 15:04:04
+[ 11/10/2024 15:04:04 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1969
+[ 11/10/2024 15:04:04 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:04:04 ] COMPILED:                    YES
+[ 11/10/2024 15:04:04 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:04:04 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:04:04 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:04:04 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:04:04 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:04:05 ] This is a message.
+[ 11/10/2024 15:04:06 ] Error: This is an Error message!
+[ 11/10/2024 15:04:07 ] Warning: This is a Warning!
+[ 11/10/2024 15:04:08 ] Success: This message is successful.
+[ 11/10/2024 15:04:09 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:08:45 ] DATE:                        11/10/2024 15:08:45
+[ 11/10/2024 15:08:45 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1969
+[ 11/10/2024 15:08:45 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:08:45 ] COMPILED:                    YES
+[ 11/10/2024 15:08:45 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:08:45 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:08:45 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:08:45 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:08:45 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:08:46 ] This is a message.
+[ 11/10/2024 15:08:47 ] Error: This is an Error message!
+[ 11/10/2024 15:08:48 ] Warning: This is a Warning!
+[ 11/10/2024 15:08:49 ] Success: This message is successful.
+[ 11/10/2024 15:08:50 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:12:23 ] DATE:                        11/10/2024 15:12:23
+[ 11/10/2024 15:12:23 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1970
+[ 11/10/2024 15:12:23 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:12:23 ] COMPILED:                    YES
+[ 11/10/2024 15:12:23 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:12:23 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:12:23 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:12:23 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:12:23 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:12:24 ] This is a message.
+[ 11/10/2024 15:12:25 ] Error: This is an Error message!
+[ 11/10/2024 15:12:26 ] Warning: This is a Warning!
+[ 11/10/2024 15:12:27 ] Success: This message is successful.
+[ 11/10/2024 15:12:28 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:15:46 ] DATE:                        11/10/2024 15:15:46
+[ 11/10/2024 15:15:46 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1971
+[ 11/10/2024 15:15:46 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:15:46 ] COMPILED:                    YES
+[ 11/10/2024 15:15:46 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:15:46 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:15:46 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:15:46 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:15:46 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:15:47 ] This is a message.
+[ 11/10/2024 15:15:48 ] Error: This is an Error message!
+[ 11/10/2024 15:15:50 ] Warning: This is a Warning!
+[ 11/10/2024 15:15:51 ] Success: This message is successful.
+[ 11/10/2024 15:15:52 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:22:48 ] DATE:                        11/10/2024 15:22:48
+[ 11/10/2024 15:22:48 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1972
+[ 11/10/2024 15:22:48 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:22:48 ] COMPILED:                    YES
+[ 11/10/2024 15:22:48 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:22:48 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:22:48 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:22:48 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:22:48 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:22:49 ] This is a message.
+[ 11/10/2024 15:22:50 ] Error: This is an Error message!
+[ 11/10/2024 15:22:52 ] Warning: This is a Warning!
+[ 11/10/2024 15:22:53 ] Success: This message is successful.
+[ 11/10/2024 15:22:54 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:25:27 ] DATE:                        11/10/2024 15:25:27
+[ 11/10/2024 15:25:27 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1974
+[ 11/10/2024 15:25:27 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:25:27 ] COMPILED:                    YES
+[ 11/10/2024 15:25:27 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:25:27 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:25:27 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:25:27 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:25:27 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:25:28 ] This is a message.
+[ 11/10/2024 15:25:29 ] Error: This is an Error message!
+[ 11/10/2024 15:25:32 ] Warning: This is a Warning!
+[ 11/10/2024 15:25:33 ] Success: This message is successful.
+[ 11/10/2024 15:25:34 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:52:02 ] DATE:                        11/10/2024 15:52:02
+[ 11/10/2024 15:52:02 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1980
+[ 11/10/2024 15:52:02 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:52:02 ] COMPILED:                    YES
+[ 11/10/2024 15:52:02 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:52:02 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:52:02 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:52:02 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:52:02 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:52:03 ] This is a message.
+[ 11/10/2024 15:52:04 ] Error: This is an Error message!
+[ 11/10/2024 15:52:05 ] Warning: This is a Warning!
+[ 11/10/2024 15:52:06 ] Success: This message is successful.
+[ 11/10/2024 15:52:07 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 15:54:15 ] DATE:                        11/10/2024 15:54:15
+[ 11/10/2024 15:54:15 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1980
+[ 11/10/2024 15:54:15 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 15:54:15 ] COMPILED:                    YES
+[ 11/10/2024 15:54:15 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 15:54:15 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 15:54:15 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 15:54:15 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 15:54:15 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 15:54:16 ] This is a message.
+[ 11/10/2024 15:54:17 ] Error: This is an Error message!
+[ 11/10/2024 15:54:18 ] Warning: This is a Warning!
+[ 11/10/2024 15:54:20 ] Success: This message is successful.
+[ 11/10/2024 15:54:21 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/10/2024 16:33:28 ] DATE:                        11/10/2024 16:33:28
+[ 11/10/2024 16:33:28 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1980
+[ 11/10/2024 16:33:28 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/10/2024 16:33:28 ] COMPILED:                    YES
+[ 11/10/2024 16:33:28 ] WINDOWS VERSION:             WIN_10 
+[ 11/10/2024 16:33:28 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/10/2024 16:33:28 ] MEMORY (RAM):                32601.73 MB
+[ 11/10/2024 16:33:28 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/10/2024 16:33:28 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/10/2024 16:33:29 ] This is a message.
+[ 11/10/2024 16:33:30 ] Error: This is an Error message!
+[ 11/10/2024 16:33:31 ] Warning: This is a Warning!
+[ 11/10/2024 16:33:33 ] Success: This message is successful.
+[ 11/10/2024 16:33:34 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/20/2024 18:31:38 ] DATE:                        11/20/2024 18:31:38
+[ 11/20/2024 18:31:38 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1982
+[ 11/20/2024 18:31:38 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/20/2024 18:31:38 ] COMPILED:                    YES
+[ 11/20/2024 18:31:38 ] WINDOWS VERSION:             WIN_10 
+[ 11/20/2024 18:31:38 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/20/2024 18:31:38 ] MEMORY (RAM):                32601.73 MB
+[ 11/20/2024 18:31:38 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/20/2024 18:31:38 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/20/2024 18:31:39 ] This is a message.
+[ 11/20/2024 18:31:40 ] Error: This is an Error message!
+[ 11/20/2024 18:31:48 ] Warning: This is a Warning!
+[ 11/20/2024 18:31:49 ] Success: This message is successful.
+[ 11/20/2024 18:31:50 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/20/2024 18:32:25 ] DATUM:                       11/20/2024 18:32:25
+[ 11/20/2024 18:32:25 ] PROGRAMM:                    Beep Codes Viewer 11.3.1.1982
+[ 11/20/2024 18:32:25 ] PROGRAMMPFAD:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/20/2024 18:32:25 ] KOMPILIERT:                  JA
+[ 11/20/2024 18:32:25 ] WINDOWS-VERSION:             WIN_10 
+[ 11/20/2024 18:32:25 ] SYSTEMTYP:                   64-Bit Operating System
+[ 11/20/2024 18:32:25 ] SPEICHER (RAM):              32601.73 MB
+[ 11/20/2024 18:32:25 ] PROGRAMMVERZEICHNIS:         C:\Program Files
+[ 11/20/2024 18:32:25 ] WINDOWS-VERZEICHNIS:         C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/20/2024 18:32:26 ] This is a message.
+[ 11/20/2024 18:32:27 ] Error: This is an Error message!
+[ 11/20/2024 18:32:28 ] Warning: This is a Warning!
+[ 11/20/2024 18:32:29 ] Success: This message is successful.
+[ 11/20/2024 18:32:30 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/20/2024 18:34:26 ] DATE:                        11/20/2024 18:34:26
+[ 11/20/2024 18:34:26 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1983
+[ 11/20/2024 18:34:26 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/20/2024 18:34:26 ] COMPILED:                    YES
+[ 11/20/2024 18:34:26 ] WINDOWS VERSION:             WIN_10 
+[ 11/20/2024 18:34:26 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/20/2024 18:34:26 ] MEMORY (RAM):                32601.73 MB
+[ 11/20/2024 18:34:26 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/20/2024 18:34:26 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/20/2024 18:34:27 ] This is a message.
+[ 11/20/2024 18:34:28 ] Error: This is an Error message!
+[ 11/20/2024 18:34:29 ] Warning: This is a Warning!
+[ 11/20/2024 18:34:30 ] Success: This message is successful.
+[ 11/20/2024 18:34:31 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 11/20/2024 19:12:37 ] DATE:                        11/20/2024 19:12:37
+[ 11/20/2024 19:12:37 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1983
+[ 11/20/2024 19:12:37 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 11/20/2024 19:12:37 ] COMPILED:                    YES
+[ 11/20/2024 19:12:37 ] WINDOWS VERSION:             WIN_10 
+[ 11/20/2024 19:12:37 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 11/20/2024 19:12:37 ] MEMORY (RAM):                32601.73 MB
+[ 11/20/2024 19:12:37 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 11/20/2024 19:12:37 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 11/20/2024 19:12:38 ] This is a message.
+[ 11/20/2024 19:12:39 ] Error: This is an Error message!
+[ 11/20/2024 19:12:40 ] Warning: This is a Warning!
+[ 11/20/2024 19:12:41 ] Success: This message is successful.
+[ 11/20/2024 19:12:42 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 20:53:21 ] DATE:                        12/02/2024 20:53:21
+[ 12/02/2024 20:53:21 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1984
+[ 12/02/2024 20:53:21 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 20:53:21 ] COMPILED:                    YES
+[ 12/02/2024 20:53:21 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 20:53:21 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 20:53:21 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 20:53:21 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 20:53:21 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 20:53:22 ] This is a message.
+[ 12/02/2024 20:53:23 ] Error: This is an Error message!
+[ 12/02/2024 20:53:24 ] Warning: This is a Warning!
+[ 12/02/2024 20:53:26 ] Success: This message is successful.
+[ 12/02/2024 20:53:27 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 20:55:14 ] DATE:                        12/02/2024 20:55:14
+[ 12/02/2024 20:55:14 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1985
+[ 12/02/2024 20:55:14 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 20:55:14 ] COMPILED:                    YES
+[ 12/02/2024 20:55:15 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 20:55:15 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 20:55:15 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 20:55:15 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 20:55:15 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 20:55:16 ] This is a message.
+[ 12/02/2024 20:55:17 ] Error: This is an Error message!
+[ 12/02/2024 20:55:18 ] Warning: This is a Warning!
+[ 12/02/2024 20:55:19 ] Success: This message is successful.
+[ 12/02/2024 20:55:23 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 20:57:28 ] DATE:                        12/02/2024 20:57:28
+[ 12/02/2024 20:57:28 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1986
+[ 12/02/2024 20:57:28 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 20:57:28 ] COMPILED:                    YES
+[ 12/02/2024 20:57:28 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 20:57:28 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 20:57:28 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 20:57:28 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 20:57:28 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 20:57:29 ] This is a message.
+[ 12/02/2024 20:57:30 ] Error: This is an Error message!
+[ 12/02/2024 20:57:31 ] Warning: This is a Warning!
+[ 12/02/2024 20:57:32 ] Success: This message is successful.
+[ 12/02/2024 20:57:33 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:04:14 ] DATE:                        12/02/2024 21:04:14
+[ 12/02/2024 21:04:14 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:04:14 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:04:14 ] COMPILED:                    YES
+[ 12/02/2024 21:04:14 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:04:14 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:04:14 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:04:14 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:04:14 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:04:15 ] This is a message.
+[ 12/02/2024 21:04:16 ] Error: This is an Error message!
+[ 12/02/2024 21:04:17 ] Warning: This is a Warning!
+[ 12/02/2024 21:04:18 ] Success: This message is successful.
+[ 12/02/2024 21:04:19 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:04:44 ] DATE:                        12/02/2024 21:04:44
+[ 12/02/2024 21:04:44 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:04:44 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:04:44 ] COMPILED:                    YES
+[ 12/02/2024 21:04:44 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:04:44 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:04:44 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:04:44 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:04:44 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:04:45 ] This is a message.
+[ 12/02/2024 21:04:46 ] Error: This is an Error message!
+[ 12/02/2024 21:04:47 ] Warning: This is a Warning!
+[ 12/02/2024 21:04:48 ] Success: This message is successful.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:05:14 ] DATE:                        12/02/2024 21:05:14
+[ 12/02/2024 21:05:14 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:05:14 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:05:14 ] COMPILED:                    YES
+[ 12/02/2024 21:05:14 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:05:14 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:05:14 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:05:14 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:05:14 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:05:15 ] This is a message.
+[ 12/02/2024 21:05:16 ] Error: This is an Error message!
+[ 12/02/2024 21:05:17 ] Warning: This is a Warning!
+[ 12/02/2024 21:05:18 ] Success: This message is successful.
+[ 12/02/2024 21:05:19 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:06:15 ] DATE:                        12/02/2024 21:06:15
+[ 12/02/2024 21:06:16 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:06:16 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:06:16 ] COMPILED:                    YES
+[ 12/02/2024 21:06:16 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:06:16 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:06:16 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:06:16 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:06:16 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:06:17 ] This is a message.
+[ 12/02/2024 21:06:18 ] Error: This is an Error message!
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:06:20 ] DATE:                        12/02/2024 21:06:20
+[ 12/02/2024 21:06:20 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:06:20 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:06:20 ] COMPILED:                    YES
+[ 12/02/2024 21:06:20 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:06:20 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:06:20 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:06:20 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:06:20 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:06:21 ] This is a message.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:06:50 ] DATE:                        12/02/2024 21:06:50
+[ 12/02/2024 21:06:50 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:06:50 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:06:50 ] COMPILED:                    YES
+[ 12/02/2024 21:06:50 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:06:50 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:06:50 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:06:50 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:06:50 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:06:51 ] This is a message.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:06:55 ] DATE:                        12/02/2024 21:06:55
+[ 12/02/2024 21:06:55 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:06:55 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:06:55 ] COMPILED:                    YES
+[ 12/02/2024 21:06:55 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:06:55 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:06:55 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:06:55 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:06:55 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:06:56 ] This is a message.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:06:58 ] DATE:                        12/02/2024 21:06:58
+[ 12/02/2024 21:06:58 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:06:58 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:06:58 ] COMPILED:                    YES
+[ 12/02/2024 21:06:58 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:06:58 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:06:58 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:06:58 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:06:58 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:06:59 ] This is a message.
+[ 12/02/2024 21:07:00 ] Error: This is an Error message!
+[ 12/02/2024 21:07:07 ] Warning: This is a Warning!
+[ 12/02/2024 21:07:08 ] Success: This message is successful.
+[ 12/02/2024 21:07:09 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:07:28 ] DATUM:                       12/02/2024 21:07:28
+[ 12/02/2024 21:07:28 ] PROGRAMM:                    Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:07:28 ] PROGRAMMPFAD:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:07:28 ] KOMPILIERT:                  JA
+[ 12/02/2024 21:07:28 ] WINDOWS-VERSION:             WIN_10 
+[ 12/02/2024 21:07:28 ] SYSTEMTYP:                   64-Bit Operating System
+[ 12/02/2024 21:07:28 ] SPEICHER (RAM):              32601.73 MB
+[ 12/02/2024 21:07:29 ] PROGRAMMVERZEICHNIS:         C:\Program Files
+[ 12/02/2024 21:07:29 ] WINDOWS-VERZEICHNIS:         C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:07:30 ] This is a message.
+[ 12/02/2024 21:07:31 ] Error: This is an Error message!
+[ 12/02/2024 21:07:32 ] Warning: This is a Warning!
+[ 12/02/2024 21:07:33 ] Success: This message is successful.
+[ 12/02/2024 21:07:34 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:07:51 ] DATE:                        12/02/2024 21:07:51
+[ 12/02/2024 21:07:51 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:07:51 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:07:51 ] COMPILED:                    YES
+[ 12/02/2024 21:07:51 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:07:51 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:07:51 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:07:51 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:07:51 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:07:52 ] This is a message.
+[ 12/02/2024 21:07:53 ] Error: This is an Error message!
+[ 12/02/2024 21:07:54 ] Warning: This is a Warning!
+[ 12/02/2024 21:07:55 ] Success: This message is successful.
+[ 12/02/2024 21:07:56 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:08:49 ] DATE:                        12/02/2024 21:08:49
+[ 12/02/2024 21:08:49 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1987
+[ 12/02/2024 21:08:49 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:08:49 ] COMPILED:                    YES
+[ 12/02/2024 21:08:49 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:08:49 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:08:49 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:08:49 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:08:49 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:08:50 ] This is a message.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:10:22 ] DATE:                        12/02/2024 21:10:22
+[ 12/02/2024 21:10:22 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1988
+[ 12/02/2024 21:10:22 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:10:22 ] COMPILED:                    YES
+[ 12/02/2024 21:10:22 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:10:22 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:10:22 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:10:22 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:10:22 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:10:23 ] This is a message.
+[ 12/02/2024 21:10:24 ] Error: This is an Error message!
+[ 12/02/2024 21:10:25 ] Warning: This is a Warning!
+[ 12/02/2024 21:10:26 ] Success: This message is successful.
+[ 12/02/2024 21:10:27 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:19:16 ] DATE:                        12/02/2024 21:19:16
+[ 12/02/2024 21:19:16 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1989
+[ 12/02/2024 21:19:16 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:19:16 ] COMPILED:                    YES
+[ 12/02/2024 21:19:16 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:19:16 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:19:16 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:19:16 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:19:16 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:19:17 ] This is a message.
+[ 12/02/2024 21:19:18 ] Error: This is an Error message!
+[ 12/02/2024 21:19:19 ] Warning: This is a Warning!
+[ 12/02/2024 21:19:20 ] Success: This message is successful.
+[ 12/02/2024 21:19:45 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:25:49 ] DATE:                        12/02/2024 21:25:49
+[ 12/02/2024 21:25:49 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1990
+[ 12/02/2024 21:25:49 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:25:49 ] COMPILED:                    YES
+[ 12/02/2024 21:25:49 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:25:49 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:25:49 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:25:49 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:25:49 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:25:50 ] This is a message.
+[ 12/02/2024 21:25:51 ] Error: This is an Error message!
+[ 12/02/2024 21:25:52 ] Warning: This is a Warning!
+[ 12/02/2024 21:25:53 ] Success: This message is successful.
+[ 12/02/2024 21:25:54 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:28:22 ] DATE:                        12/02/2024 21:28:22
+[ 12/02/2024 21:28:22 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1990
+[ 12/02/2024 21:28:22 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:28:22 ] COMPILED:                    YES
+[ 12/02/2024 21:28:22 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:28:22 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:28:22 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:28:22 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:28:22 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:28:23 ] This is a message.
+[ 12/02/2024 21:28:24 ] Error: This is an Error message!
+[ 12/02/2024 21:28:25 ] Warning: This is a Warning!
+[ 12/02/2024 21:28:26 ] Success: This message is successful.
+[ 12/02/2024 21:28:27 ] Finished testing logging system.
