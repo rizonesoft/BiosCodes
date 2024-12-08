@@ -30,13 +30,13 @@
 ;===============================================================================================================
 #AutoIt3Wrapper_Res_Comment=Beep Codes Viewer					;~ Comment field
 #AutoIt3Wrapper_Res_Description=Beep Codes Viewer				;~ Description field
-#AutoIt3Wrapper_Res_Fileversion=11.3.1.1990
+#AutoIt3Wrapper_Res_Fileversion=11.3.1.1992
 #AutoIt3Wrapper_Res_FileVersion_AutoIncrement=Y  				;~ (Y/N/P) AutoIncrement FileVersion. Default=N
 #AutoIt3Wrapper_Res_FileVersion_First_Increment=Y				;~ (Y/N) AutoIncrement Y=Before; N=After compile. Default=N
 #AutoIt3Wrapper_Res_HiDpi=N                      				;~ (Y/N) Compile for high DPI. Default=N
 #AutoIt3Wrapper_Res_ProductVersion=11             				;~ Product Version
 #AutoIt3Wrapper_Res_Language=2057								;~ Resource Language code . Default 2057=English (United Kingdom)
-#AutoIt3Wrapper_Res_LegalCopyright=© 2023 Rizonesoft			;~ Copyright field
+#AutoIt3Wrapper_Res_LegalCopyright=© 2024 Rizonesoft			;~ Copyright field
 #AutoIt3Wrapper_res_requestedExecutionLevel=asInvoker			;~ asInvoker, highestAvailable, requireAdministrator or None (remove the trsutInfo section).  Default is the setting from Aut2Exe (asInvoker)
 ;#AutoIt3Wrapper_res_Compatibility=Vista,Win7,Win8,Win81			;~ Vista/Windows7/win7/win8/win81 allowed separated by a comma     (Default=Win81)
 ;#AutoIt3Wrapper_Res_SaveSource=N								;~ (Y/N) Save a copy of the Script_source in the EXE resources. Default=N
@@ -281,8 +281,8 @@ Global $g_sUrlCompHomePage		= "https://rizonesoft.com|rizonesoft.com"											
 Global $g_sUrlSupport			= "https://rizonesoft.com/contact-us/|rizonesoft.com/contact-us/"								; https://rizonesoft.com/contact-us
 Global $g_sUrlDownloads			= "https://rizonesoft.com/downloads/|rizonesoft.com/downloads/"									; https://rizonesoft.com/downloads/
 Global $g_sUrlFacebook			= "https://www.facebook.com/rizonesoft|Facebook.com/rizonesoft"									; https://www.facebook.com/rizonesoft
-Global $g_sUrlGitHub			= "https://github.com/rizonesoft/Firemin|GitHub.com/rizonesoft/Firemin"							; https://github.com/rizonesoft/Resolute
-Global $g_sUrlGitHubIssues		= "https://github.com/rizonesoft/Firemin/issues|GitHub.com/rizonesoft/Firemin/issues"			; https://github.com/rizonesoft/Resolute/issues
+Global $g_sUrlGitHub			= "https://github.com/rizonesoft/BiosCodes|GitHub.com/rizonesoft/BiosCodes"						; https://github.com/rizonesoft/Resolute
+Global $g_sUrlGitHubIssues		= "https://github.com/rizonesoft/BiosCodes/issues|GitHub.com/rizonesoft/BiosCodes/issues"		; https://github.com/rizonesoft/Resolute/issues
 Global $g_sUrlPayPal			= "https://www.paypal.com/donate/?hosted_button_id=7UGGCSDUZJPFE|PayPal.com/donate"				; https://www.paypal.com/donate/?hosted_button_id=7UGGCSDUZJPFE
 Global $g_sUrlSA				= "https://en.wikipedia.org/wiki/South_Africa|Wikipedia.org/wiki/South_Africa"					; https://en.wikipedia.org/wiki/South_Africa
 Global $g_sUrlProgPage			= "https://rizonesoft.com/downloads/bios-beep-codes-viewer/|rizonesoft.com/downloads/bios-beep-codes-viewer/"

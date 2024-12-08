@@ -812,3 +812,25 @@
 [ 12/02/2024 21:28:25 ] Warning: This is a Warning!
 [ 12/02/2024 21:28:26 ] Success: This message is successful.
 [ 12/02/2024 21:28:27 ] Finished testing logging system.
+
+
+                                            ./
+                                          (o o)
+--------------------------------------oOOo-(-)-oOOo--------------------------------------
+
+[ 12/02/2024 21:53:32 ] DATE:                        12/02/2024 21:53:32
+[ 12/02/2024 21:53:32 ] PROGRAM:                     Beep Codes Viewer 11.3.1.1991
+[ 12/02/2024 21:53:32 ] PROGRAM PATH:                [Z:\GitHub\BiosCodes\BiosCodes\BiosCodes_X64.exe]
+[ 12/02/2024 21:53:32 ] COMPILED:                    YES
+[ 12/02/2024 21:53:32 ] WINDOWS VERSION:             WIN_10 
+[ 12/02/2024 21:53:32 ] SYSTEM TYPE:                 64-Bit Operating System
+[ 12/02/2024 21:53:33 ] MEMORY (RAM):                32601.73 MB
+[ 12/02/2024 21:53:33 ] PROGRAM FILES DIRECTORY:     C:\Program Files
+[ 12/02/2024 21:53:33 ] WINDOWS DIRECTORY:           C:\WINDOWS
+-----------------------------------------------------------------------------------------
+
+[ 12/02/2024 21:53:34 ] This is a message.
+[ 12/02/2024 21:53:35 ] Error: This is an Error message!
+[ 12/02/2024 21:53:36 ] Warning: This is a Warning!
+[ 12/02/2024 21:53:37 ] Success: This message is successful.
+[ 12/02/2024 21:53:38 ] Finished testing logging system.
